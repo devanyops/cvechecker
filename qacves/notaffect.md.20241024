@@ -1,0 +1,107 @@
+CVE-2022-48949
+CVE-2022-48955
+CVE-2022-48956
+CVE-2022-48970
+CVE-2022-48974
+CVE-2022-48989
+CVE-2022-48993
+CVE-2022-48999
+CVE-2022-49000
+CVE-2022-49018
+CVE-2022-49023
+CVE-2022-49033
+CVE-2024-47669
+CVE-2024-47675
+CVE-2024-47676
+CVE-2024-47677
+CVE-2024-47680
+CVE-2024-47681
+CVE-2024-47682
+CVE-2024-47686
+CVE-2024-47688
+CVE-2024-47694
+CVE-2024-47696
+CVE-2024-47700
+CVE-2024-47702
+CVE-2024-47708
+CVE-2024-47709
+CVE-2024-47711
+CVE-2024-47722
+CVE-2024-47723
+CVE-2024-47725
+CVE-2024-47734
+CVE-2024-47741
+CVE-2024-47742
+CVE-2024-47743
+CVE-2024-47744
+CVE-2024-47746
+CVE-2024-47747
+CVE-2024-47752
+CVE-2024-47753
+CVE-2024-47754
+CVE-2024-47755
+CVE-2024-47756
+CVE-2024-47757
+CVE-2024-49850
+CVE-2024-49855
+CVE-2024-49857
+CVE-2024-49859
+CVE-2024-49870
+CVE-2024-49872
+CVE-2024-49873
+CVE-2024-49880
+CVE-2024-49926
+CVE-2024-49941
+CVE-2024-49946
+CVE-2024-49956
+CVE-2024-49964
+CVE-2024-50012
+CVE-2022-48946,kernel,Out of support scope,Will not fix
+CVE-2022-48947,kernel,Out of support scope,maybe fixed
+CVE-2022-48950,kernel,Out of support scope,Will not fix
+CVE-2022-48951,kernel,Out of support scope,Affected
+CVE-2022-48953,kernel,Out of support scope,Will not fix
+CVE-2022-48961,kernel,Out of support scope,Will not fix
+CVE-2022-48971,kernel,Out of support scope,Will not fix
+CVE-2022-48972,kernel,Out of support scope,Will not fix
+CVE-2022-48975,kernel,Out of support scope,Will not fix
+CVE-2022-48977,kernel,Out of support scope,Affected
+CVE-2022-48979,kernel,Out of support scope,Fix deferred
+CVE-2022-48982,kernel,Out of support scope,Will not fix
+CVE-2022-48985,kernel,不受影响,Out of support scope
+CVE-2022-48986,kernel,Out of support scope,Affected
+CVE-2022-48987,kernel,不受影响,Will not fix
+CVE-2022-48988,kernel,Out of support scope,Affected
+CVE-2022-48990,kernel,Out of support scope,Affected
+CVE-2022-48992,kernel,Out of support scope,maybe fixed
+CVE-2022-48994,kernel,Out of support scope,Affected
+CVE-2022-48997,kernel,Out of support scope,maybe fixed
+CVE-2022-49003,kernel,Out of support scope,Out of support scope
+CVE-2022-49005,kernel,Out of support scope,Fix deferred
+CVE-2022-49006,kernel,Out of support scope,Will not fix
+CVE-2022-49010,kernel,Out of support scope,maybe fixed
+CVE-2022-49011,kernel,Out of support scope,Will not fix
+CVE-2022-49022,kernel,不受影响,Affected
+CVE-2022-49029,kernel,Out of support scope,Will not fix
+CVE-2023-52917,kernel,Out of support scope,Will not fix
+CVE-2023-52918,kernel,Out of support scope,Will not fix
+CVE-2024-47693,kernel,Out of support scope,Will not fix
+CVE-2024-47697,kernel,Out of support scope,Will not fix
+CVE-2024-47698,kernel,Out of support scope,Will not fix
+CVE-2024-47703,kernel,不受影响,Will not fix
+CVE-2024-47713,kernel,Out of support scope,Will not fix
+CVE-2024-47718,kernel,Out of support scope,Will not fix
+CVE-2024-47727,kernel,不受影响,Will not fix
+CVE-2024-47728,kernel,Out of support scope,Will not fix
+CVE-2024-47738,kernel,Out of support scope,Will not fix
+CVE-2024-47739,kernel,Out of support scope,Will not fix
+CVE-2024-47749,kernel,Out of support scope,Will not fix
+CVE-2024-49851,kernel,Out of support scope,Will not fix
+CVE-2024-49856,kernel,不受影响,Will not fix
+CVE-2024-49858,kernel,不受影响,Will not fix
+CVE-2024-49861,kernel,Out of support scope,Will not fix
+CVE-2024-49866,kernel,不受影响,Will not fix
+CVE-2024-49940,kernel,Out of support scope,Will not fix
+CVE-2024-49950,kernel,Out of support scope,Will not fix
+CVE-2024-49995,kernel,不受影响,Will not fix
+CVE-2024-49996,kernel,Out of support scope,Will not fix

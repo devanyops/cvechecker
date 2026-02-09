@@ -1,0 +1,8 @@
+CVE,软件包名,网安产品,iSecOS, kylin kernel
+CVE-2020-24736,sqlite,不受影响,已修复,NA
+CVE-2022-24810,net-snmp,不受影响,受影响,NA
+CVE-2025-1150,binutils,不受影响,受影响,NA
+CVE-2025-1151,binutils,不受影响,受影响,NA
+CVE-2025-1152,binutils,不受影响,受影响,NA
+CVE-2025-1153,binutils,不受影响,受影响,NA
+

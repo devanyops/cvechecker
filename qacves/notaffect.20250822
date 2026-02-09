@@ -1,0 +1,17 @@
+CVE-2025-38543
+CVE-2025-38590
+CVE-2025-38604
+CVE-2025-8941
+CVE-2025-38527,kernel,不受影响,Affected
+CVE-2025-38539,kernel,Fix deferred,Fix deferred
+CVE-2025-38540,kernel,不受影响,Fix deferred
+CVE-2025-38546,kernel,Fix deferred,Fix deferred
+CVE-2025-38565,kernel,不受影响,Fix deferred
+CVE-2025-38576,kernel,Fix deferred,Fix deferred
+CVE-2025-38584,kernel,Affected,Affected
+CVE-2025-38593,kernel,不受影响,Affected
+CVE-2025-38614,kernel,Affected,Affected
+CVE-2025-8961,libtiff,Fix deferred,Fix deferred
+CVE-2025-9165,libtiff,Fix deferred,Fix deferred
+
+

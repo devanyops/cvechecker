@@ -1,0 +1,10 @@
+CVE,软件包名,网安产品,iSecOS, kylin kernel
+CVE-2024-28956,kernel,受影响,受影响,不受影响
+CVE-2025-32728,openssh,受影响,受影响,NA
+CVE-2025-5244,binutils,"代码受影响,但不会触发","代码受影响,但不会触发",NA
+CVE-2025-5245,binutils,"代码受影响,但不会触发","代码受影响,但不会触发",NA
+CVE-2025-5278,coreutils,不受影响,"代码受影响,但不会触发",NA
+CVE-2025-2784,libsoup,不受影响,不受影响,NA
+CVE-2025-4476,libsoup,不受影响,不受影响,NA
+
+

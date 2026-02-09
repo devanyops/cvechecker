@@ -1,0 +1,24 @@
+CVE-2025-38699
+CVE-2025-38680,kernel,Fix deferred,Fix deferred
+CVE-2025-38684,kernel,不受影响,Affected
+CVE-2025-38691,kernel,Fix deferred,Fix deferred
+CVE-2025-38692,kernel,Out of support scope,Out of support scope
+CVE-2025-38694,kernel,Out of support scope,Out of support scope
+CVE-2025-38695,kernel,Affected,Affected
+CVE-2025-38700,kernel,Affected,Affected
+CVE-2025-38706,kernel,Affected,Affected
+CVE-2025-38709,kernel,Affected,Affected
+CVE-2025-38710,kernel,Affected,Affected
+CVE-2025-38721,kernel,Fix deferred,Fix deferred
+CVE-2025-38724,kernel,Affected,Affected
+CVE-2025-38728,kernel,不受影响,Fix deferred
+CVE-2025-38729,kernel,Affected,Affected
+CVE-2025-38734,kernel,不受影响,Fix deferred
+CVE-2025-38735,kernel,不受影响,Affected
+CVE-2025-39689,kernel,不受影响,Affected
+CVE-2025-39691,kernel,Fix deferred,Fix deferred
+CVE-2025-39697,kernel,不受影响,Affected
+CVE-2025-39724,kernel,不受影响,Fix deferred
+CVE-2025-39726,kernel,不受影响,Fix deferred
+CVE-2025-39730,kernel,不受影响,Affected
+CVE-2025-39732,kernel,不受影响,Fix deferred

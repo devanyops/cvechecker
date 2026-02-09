@@ -1,0 +1,2 @@
+CVE,软件包名,网安产品,iSecOS, kylin kernel
+CVE-2024-35328,python-libyaml,"代码受影响,但不会触发","代码受影响,但不会触发",NA

@@ -1,0 +1,93 @@
+CVE-2022-50829
+CVE-2022-50842
+CVE-2022-50844
+CVE-2022-50847
+CVE-2022-50850
+CVE-2022-50856
+CVE-2022-50859
+CVE-2022-50871
+CVE-2022-50878
+CVE-2022-50880
+CVE-2022-50882
+CVE-2022-50884
+CVE-2022-50885
+CVE-2023-54168
+CVE-2023-54170
+CVE-2023-54172
+CVE-2023-54185
+CVE-2023-54201
+CVE-2023-54202
+CVE-2023-54214
+CVE-2023-54224
+CVE-2023-54233
+CVE-2023-54253
+CVE-2023-54254
+CVE-2023-54258
+CVE-2023-54260
+CVE-2023-54270
+CVE-2023-54274
+CVE-2023-54282
+CVE-2023-54285
+CVE-2023-54288
+CVE-2023-54292
+CVE-2023-54300
+CVE-2023-54302
+CVE-2023-54308
+CVE-2023-54314
+CVE-2025-15284
+CVE-2025-68753
+CVE-2022-50809,kernel,不受影响,Fix deferred
+CVE-2022-50816,kernel,Affected,maybe fixed
+CVE-2022-50820,kernel,不受影响,Fix deferred
+CVE-2022-50821,kernel,Fix deferred,Fix deferred
+CVE-2022-50824,kernel,Fix deferred,Fix deferred
+CVE-2022-50827,kernel,不受影响,Fix deferred
+CVE-2022-50835,kernel,Fix deferred,Fix deferred
+CVE-2022-50839,kernel,Fix deferred,Fix deferred
+CVE-2022-50845,kernel,Fix deferred,Fix deferred
+CVE-2022-50849,kernel,Affected,Affected
+CVE-2022-50851,kernel,不受影响,Fix deferred
+CVE-2022-50853,kernel,不受影响,Fix deferred
+CVE-2022-50870,kernel,Fix deferred,Fix deferred
+CVE-2022-50872,kernel,Fix deferred,Fix deferred
+CVE-2022-50875,kernel,不受影响,Fix deferred
+CVE-2022-50883,kernel,不受影响,Fix deferred
+CVE-2022-50889,kernel,不受影响,Fix deferred
+CVE-2023-54173,kernel,不受影响,Fix deferred
+CVE-2023-54176,kernel,不受影响,Fix deferred
+CVE-2023-54181,kernel,Fix deferred,Fix deferred
+CVE-2023-54184,kernel,Fix deferred,Fix deferred
+CVE-2023-54186,kernel,Fix deferred,Fix deferred
+CVE-2023-54193,kernel,不受影响,Fix deferred
+CVE-2023-54198,kernel,Fix deferred,Fix deferred
+CVE-2023-54200,kernel,不受影响,Fix deferred
+CVE-2023-54207,kernel,不受影响,Fix deferred
+CVE-2023-54213,kernel,不受影响,Fix deferred
+CVE-2023-54223,kernel,Fix deferred,Fix deferred
+CVE-2023-54227,kernel,Fix deferred,Fix deferred
+CVE-2023-54230,kernel,不受影响,Fix deferred
+CVE-2023-54234,kernel,不受影响,Fix deferred
+CVE-2023-54236,kernel,Affected,Affected
+CVE-2023-54237,kernel,不受影响,Fix deferred
+CVE-2023-54242,kernel,不受影响,Fix deferred
+CVE-2023-54243,kernel,Fix deferred,Fix deferred
+CVE-2023-54247,kernel,不受影响,Fix deferred
+CVE-2023-54252,kernel,不受影响,Fix deferred
+CVE-2023-54267,kernel,Fix deferred,Fix deferred
+CVE-2023-54268,kernel,Fix deferred,Fix deferred
+CVE-2023-54283,kernel,Fix deferred,Fix deferred
+CVE-2023-54289,kernel,Fix deferred,Fix deferred
+CVE-2023-54294,kernel,不受影响,Fix deferred
+CVE-2023-54296,kernel,不受影响,Fix deferred
+CVE-2023-54305,kernel,Fix deferred,Fix deferred
+CVE-2023-54311,kernel,Fix deferred,Fix deferred
+CVE-2023-54318,kernel,不受影响,Fix deferred
+CVE-2023-54320,kernel,不受影响,Fix deferred
+CVE-2023-54325,kernel,不受影响,Fix deferred
+CVE-2025-66863,rhcos,Fix deferred,Fix deferred
+CVE-2025-66866,rhcos,Fix deferred,Fix deferred
+CVE-2025-68756,kernel,不受影响,Fix deferred
+CVE-2025-68764,kernel,不受影响,Fix deferred
+
+
+

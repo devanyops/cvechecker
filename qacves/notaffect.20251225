@@ -1,0 +1,26 @@
+CVE-2025-40360
+CVE-2025-68219
+CVE-2025-68223
+CVE-2025-68615,rhcos,Affected,Affected
+CVE-2025-68192,kernel,Affected,Affected
+CVE-2025-68194,kernel,Fix deferred,Fix deferred
+CVE-2025-68200,kernel,不受影响,Fix deferred
+CVE-2025-68206,kernel,不受影响,Fix deferred
+CVE-2025-68209,kernel,不受影响,Affected
+CVE-2025-68214,kernel,不受影响,Fix deferred
+CVE-2025-68224,kernel,Fix deferred,Fix deferred
+CVE-2025-68227,kernel,不受影响,Fix deferred
+CVE-2025-68229,kernel,Affected,Affected
+CVE-2025-68231,kernel,不受影响,Affected
+CVE-2025-68336,kernel,不受影响,Fix deferred
+CVE-2025-68337,kernel,Fix deferred,Fix deferred
+CVE-2025-40348,kernel,Affected,Affected
+CVE-2025-40353,kernel,Affected,Affected
+CVE-2025-40361,kernel,Fix deferred,Fix deferred
+CVE-2025-40362,kernel,Fix deferred,Fix deferred
+CVE-2025-68171,kernel,不受影响,Fix deferred
+CVE-2025-68173,kernel,Fix deferred,Fix deferred
+CVE-2025-68178,kernel,Fix deferred,Fix deferred
+CVE-2025-68183,kernel,Fix deferred,Fix deferred
+CVE-2025-68185,kernel,Affected,Affected
+CVE-2025-68191,kernel,不受影响,Affected

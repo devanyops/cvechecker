@@ -1,0 +1,3 @@
+CVE-2024-58240,kernel,不受影响,Affected
+CVE-2025-38676,kernel,不受影响,Fix deferred
+CVE-2025-9714,rhcos,Fix deferred,Fix deferred

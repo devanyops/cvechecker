@@ -1,0 +1,34 @@
+CVE-2025-40110
+CVE-2025-40205
+CVE-2025-40115,kernel,Fix deferred,Fix deferred
+CVE-2025-40120,kernel,不受影响,Fix deferred
+CVE-2025-40121,kernel,不受影响,Affected
+CVE-2025-40123,kernel,Fix deferred,Fix deferred
+CVE-2025-40125,kernel,不受影响,Fix deferred
+CVE-2025-40134,kernel,Out of support scope,Fix deferred
+CVE-2025-40139,kernel,不受影响,Fix deferred
+CVE-2025-40140,kernel,Out of support scope,Out of support scope
+CVE-2025-40146,kernel,Fix deferred,Fix deferred
+CVE-2025-40149,kernel,不受影响,Will not fix
+CVE-2025-40154,kernel,不受影响,Affected
+CVE-2025-40160,kernel,不受影响,Fix deferred
+CVE-2025-40164,kernel,Fix deferred,Fix deferred
+CVE-2025-40168,kernel,不受影响,Affected
+CVE-2025-40171,kernel,不受影响,Fix deferred
+CVE-2025-40173,kernel,Fix deferred,Fix deferred
+CVE-2025-40183,kernel,不受影响,Fix deferred
+CVE-2025-40187,kernel,Out of support scope,Fix deferred
+CVE-2025-40195,kernel,Fix deferred,Fix deferred
+CVE-2025-40198,kernel,Fix deferred,Fix deferred
+CVE-2025-40200,kernel,Fix deferred,Fix deferred
+CVE-2025-40204,kernel,Fix deferred,Fix deferred
+CVE-2025-54770,rhcos,Fix deferred,Fix deferred
+CVE-2025-54771,rhcos,Fix deferred,Fix deferred
+CVE-2025-60753,rhcos,Fix deferred,Fix deferred
+CVE-2025-61661,rhcos,Fix deferred,Fix deferred
+CVE-2025-61662,rhcos,Fix deferred,Fix deferred
+CVE-2025-61663,rhcos,Fix deferred,Fix deferred
+CVE-2025-61664,rhcos,Fix deferred,Fix deferred
+CVE-2025-10158,rsync,Out of support scope,Fix deferred
+CVE-2025-13193,libvirt,Out of support scope,Fix deferred
+CVE-2025-40190,kernel,不受影响,Will not fix

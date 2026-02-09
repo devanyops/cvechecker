@@ -1,0 +1,9 @@
+CVE-2025-64505
+CVE-2025-64506
+CVE-2025-64720
+CVE-2025-65018
+CVE-2025-13836
+CVE-2025-13601,rhcos,Affected,Affected
+CVE-2025-58436,rhcos,Will not fix,Affected
+CVE-2025-61915,rhcos,Will not fix,Affected
+CVE-2025-66382,rhcos,Fix deferred,Fix deferred

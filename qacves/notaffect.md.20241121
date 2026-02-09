@@ -1,0 +1,102 @@
+CVE-2023-4134
+CVE-2024-46869
+CVE-2024-49864
+CVE-2024-49887
+CVE-2024-49902
+CVE-2024-49933
+CVE-2024-50089
+CVE-2024-50094
+CVE-2024-50144
+CVE-2024-50145
+CVE-2024-50152
+CVE-2024-50159
+CVE-2024-50161
+CVE-2024-50168
+CVE-2024-50170
+CVE-2024-50171
+CVE-2024-50202
+CVE-2024-50206
+CVE-2024-50213
+CVE-2024-50214
+CVE-2024-50215
+CVE-2024-50221
+CVE-2024-50222
+CVE-2024-50224
+CVE-2024-50225
+CVE-2024-50227
+CVE-2024-50229
+CVE-2024-50230
+CVE-2024-50231
+CVE-2024-50232
+CVE-2024-50233
+CVE-2024-50238
+CVE-2024-50239
+CVE-2024-50240
+CVE-2024-50242
+CVE-2024-50243
+CVE-2024-50244
+CVE-2024-50245
+CVE-2024-50246
+CVE-2024-50247
+CVE-2024-50248
+CVE-2024-50259
+CVE-2024-50260
+CVE-2023-52642,kernel,Out of support scope,Fix deferred
+CVE-2024-49872,kernel,Out of support scope,不受影响
+CVE-2024-49878,kernel,Out of support scope,不受影响
+CVE-2024-49885,kernel,Out of support scope,不受影响
+CVE-2024-49925,kernel,不受影响,Will not fix
+CVE-2024-49926,kernel,Out of support scope,不受影响
+CVE-2024-49932,kernel,Out of support scope,不受影响
+CVE-2024-49934,kernel,Out of support scope,Will not fix
+CVE-2024-49935,kernel,Out of support scope,不受影响
+CVE-2024-49937,kernel,Out of support scope,Will not fix
+CVE-2024-49938,kernel,Out of support scope,Will not fix
+CVE-2024-49939,kernel,不受影响,Will not fix
+CVE-2024-49940,kernel,Out of support scope,Will not fix
+CVE-2024-49952,kernel,Out of support scope,Will not fix
+CVE-2024-50092,kernel,Out of support scope,不受影响
+CVE-2024-50122,kernel,Out of support scope,不受影响
+CVE-2024-50143,kernel,Out of support scope,Will not fix
+CVE-2024-50148,kernel,Out of support scope,Will not fix
+CVE-2024-50160,kernel,不受影响,Will not fix
+CVE-2024-50167,kernel,Out of support scope,Will not fix
+CVE-2024-50172,kernel,Out of support scope,不受影响
+CVE-2024-50201,kernel,Out of support scope,Will not fix
+CVE-2024-50203,kernel,不受影响,Will not fix
+CVE-2024-50204,kernel,Out of support scope,不受影响
+CVE-2024-50205,kernel,不受影响,Affected
+CVE-2024-50208,kernel,Out of support scope,Affected
+CVE-2024-50209,kernel,Out of support scope,Will not fix
+CVE-2024-50210,kernel,Out of support scope,不受影响
+CVE-2024-50211,kernel,Out of support scope,Will not fix
+CVE-2024-50217,kernel,Out of support scope,不受影响
+CVE-2024-50223,kernel,Out of support scope,不受影响
+CVE-2024-50226,kernel,Out of support scope,不受影响
+CVE-2024-50234,kernel,Out of support scope,不受影响
+CVE-2024-50235,kernel,Out of support scope,不受影响
+CVE-2024-50236,kernel,Out of support scope,不受影响
+CVE-2024-50237,kernel,Out of support scope,Will not fix
+CVE-2024-50241,kernel,Out of support scope,不受影响
+CVE-2024-50249,kernel,Out of support scope,不受影响
+CVE-2024-50250,kernel,Out of support scope,不受影响
+CVE-2024-50252,kernel,Out of support scope,不受影响
+CVE-2024-50253,kernel,Out of support scope,不受影响
+CVE-2024-50254,kernel,Out of support scope,不受影响
+CVE-2024-50255,kernel,不受影响,Will not fix
+CVE-2024-50257,kernel,Out of support scope,不受影响
+CVE-2024-50261,kernel,Out of support scope,不受影响
+CVE-2024-50262,kernel,Out of support scope,Will not fix
+CVE-2024-50263,kernel,Out of support scope,不受影响
+CVE-2024-50278,kernel,Out of support scope,Affected
+CVE-2024-50280,kernel,Out of support scope,Fix deferred
+CVE-2024-50301,kernel,Out of support scope,Affected
+CVE-2024-50302,kernel,Out of support scope,Fix deferred
+CVE-2024-52615,rhcos,Out of support scope,Affected
+CVE-2024-52616,rhcos,Out of support scope,Affected
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+CVE-2025-39957
+CVE-2022-50455
+CVE-2025-8291
+CVE-2022-50452,kernel,Out of support scope,maybe fixed
+CVE-2022-50459,kernel,Out of support scope,Out of support scope
+CVE-2023-53457,kernel,Out of support scope,Out of support scope
+CVE-2025-39955,kernel,Affected,Affected
+CVE-2025-39958,kernel,不受影响,Fix deferred
+CVE-2025-39961,kernel,不受影响,Fix deferred
+CVE-2025-39964,kernel,Fix deferred,Fix deferred
+CVE-2025-39965,kernel,Fix deferred,Fix deferred
+CVE-2025-11412,rhcos,Out of support scope,Fix deferred
+CVE-2025-11413,rhcos,Out of support scope,Fix deferred
+CVE-2025-11414,rhcos,Out of support scope,Fix deferred
+CVE-2025-11731,rhcos,Fix deferred,Fix deferred
+CVE-2025-23282,rhcos,Affected,Affected
+
+

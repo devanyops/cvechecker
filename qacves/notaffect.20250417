@@ -1,0 +1,71 @@
+CVE-2016-2853
+CVE-2016-2854
+CVE-2022-49276
+CVE-2022-49277
+CVE-2022-49279
+CVE-2022-49298
+CVE-2022-49299
+CVE-2022-49301
+CVE-2022-49302
+CVE-2022-49303
+CVE-2022-49304
+CVE-2022-49305
+CVE-2022-49313
+CVE-2022-49318
+CVE-2022-49351
+CVE-2022-49354
+CVE-2022-49367
+CVE-2022-49368
+CVE-2022-49373
+CVE-2022-49375
+CVE-2022-49381
+CVE-2022-49546
+CVE-2022-49738
+CVE-2022-49741
+CVE-2022-49742
+CVE-2022-49746
+CVE-2022-49751
+CVE-2022-49757
+CVE-2022-49758
+CVE-2024-56406
+CVE-2024-58092
+CVE-2025-21904
+CVE-2025-21912
+CVE-2025-21917
+CVE-2025-21957
+CVE-2025-22023
+CVE-2025-29088
+CVE-2025-3277
+CVE-2013-4508 not affected
+CVE-2014-2323 not affected
+CVE-2015-0569 not affected
+CVE-2015-0570 not affected
+CVE-2015-0571 not affected
+CVE-2015-3200 not affected
+CVE-2014-2532,openssh,不受影响,--
+CVE-2016-0777,openssh,maybe fixed,--
+CVE-2016-0778,openssh,maybe fixed,--
+CVE-2016-10009,openssh,maybe fixed,--
+CVE-2016-10010,openssh,不受影响,--
+CVE-2016-10011,openssh,maybe fixed,--
+CVE-2016-1907,openssh,不受影响,--
+CVE-2016-3115,openssh,maybe fixed,--
+CVE-2022-49294,kernel,不受影响,Affected
+CVE-2022-49295,kernel,不受影响,Out of support scope
+CVE-2022-49296,kernel,Out of support scope,Out of support scope
+CVE-2022-49300,kernel,不受影响,Out of support scope
+CVE-2022-49322,kernel,Out of support scope,Out of support scope
+CVE-2022-49374,kernel,不受影响,Out of support scope
+CVE-2022-49740,kernel,Out of support scope,Out of support scope
+CVE-2025-22020,kernel,不受影响,Out of support scope
+CVE-2023-52988,kernel,Out of support scope,Out of support scope
+CVE-2023-52989,kernel,Out of support scope,Out of support scope
+CVE-2023-53001,kernel,Out of support scope,Out of support scope
+CVE-2023-53005,kernel,不受影响,Out of support scope
+CVE-2023-53008,kernel,Out of support scope,Out of support scope
+CVE-2023-53015,kernel,不受影响,Out of support scope
+CVE-2023-53020,kernel,Out of support scope,Out of support scope
+CVE-2025-21928,kernel,Out of support scope,Out of support scope
+CVE-2025-21948,kernel,Out of support scope,Out of support scope
+CVE-2025-21969,kernel,Out of support scope,Out of support scope
+CVE-2025-21996,kernel,Out of support scope,Out of support scope

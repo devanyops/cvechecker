@@ -1,0 +1,67 @@
+CVE-2022-50617
+CVE-2022-50627
+CVE-2022-50628
+CVE-2022-50665
+CVE-2022-50666
+CVE-2022-50667
+CVE-2022-50671
+CVE-2022-50678
+CVE-2023-53753
+CVE-2023-53767
+CVE-2023-53822
+CVE-2023-53827
+CVE-2023-53833
+CVE-2023-53859
+CVE-2025-40268
+CVE-2025-40269
+CVE-2025-40275
+CVE-2025-40277
+CVE-2025-40283
+CVE-2025-40303
+CVE-2025-40308
+CVE-2025-40321
+CVE-2025-40329
+CVE-2022-50626
+CVE-2022-50664
+CVE-2023-53836
+CVE-2023-53847
+CVE-2023-53866
+CVE-2025-40258
+CVE-2025-40338
+CVE-2023-53754,kernel,Fix deferred,Fix deferred
+CVE-2023-53761,kernel,Affected,maybe fixed
+CVE-2023-53765,kernel,Affected,Affected
+CVE-2023-53769,kernel,不受影响,Fix deferred
+CVE-2023-53824,kernel,Fix deferred,Fix deferred
+CVE-2023-53826,kernel,Fix deferred,Fix deferred
+CVE-2023-53835,kernel,Fix deferred,Fix deferred
+CVE-2023-53840,kernel,不受影响,Out of support scope
+CVE-2023-53848,kernel,不受影响,maybe fixed
+CVE-2025-40220,kernel,Affected,Affected
+CVE-2025-40231,kernel,不受影响,Fix deferred
+CVE-2025-40240,kernel,不受影响,Affected
+CVE-2025-40242,kernel,Affected,Affected
+CVE-2025-40248,kernel,Affected,Affected
+CVE-2025-40252,kernel,Fix deferred,Fix deferred
+CVE-2025-40259,kernel,不受影响,Affected
+CVE-2025-40264,kernel,Affected,Affected
+CVE-2025-40280,kernel,不受影响,Affected
+CVE-2025-40281,kernel,Affected,Affected
+CVE-2025-40323,kernel,不受影响,Affected
+CVE-2025-40324,kernel,不受影响,Affected
+CVE-2025-40331,kernel,不受影响,Affected
+CVE-2025-40342,kernel,Out of support scope,Out of support scope
+CVE-2025-40343,kernel,Fix deferred,Fix deferred
+CVE-2025-55753,jbcs-httpd24-httpd,不受影响,maybe fixed
+CVE-2025-58098,jbcs-httpd24-httpd,Affected,maybe fixed
+CVE-2025-65082,jbcs-httpd24-httpd,Will not fix,maybe fixed
+CVE-2025-66200,jbcs-httpd24-httpd,Out of support scope,maybe fixed
+CVE-2022-50625,kernel,不受影响,Affected
+CVE-2022-50669,kernel,不受影响,Fix deferred
+CVE-2023-53747,kernel,Fix deferred,Fix deferred
+CVE-2023-53853,kernel,Out of support scope,Out of support scope
+CVE-2023-53863,kernel,Fix deferred,Fix deferred
+CVE-2025-14104,rhcos,Will not fix,Affected
+CVE-2025-40215,kernel,Affected,Affected
+CVE-2025-40304,kernel,不受影响,受影响,
+CVE-2025-40322,kernel,不受影响,Affected

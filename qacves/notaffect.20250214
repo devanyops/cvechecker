@@ -1,0 +1,24 @@
+CVE-2024-56772
+CVE-2024-57949
+CVE-2025-21665
+CVE-2025-21679
+CVE-2025-21680
+CVE-2025-21684
+CVE-2025-21685
+CVE-2025-21688
+CVE-2012-1535
+CVE-2024-53104
+CVE-2025-21666,kernel,Out of support scope,Out of support scope
+CVE-2025-21667,kernel,不受影响,Out of support scope
+CVE-2025-21669,kernel,Out of support scope,Out of support scope
+CVE-2025-21671,kernel,Out of support scope,Out of support scope
+CVE-2025-21673,kernel,不受影响,Out of support scope
+CVE-2024-57948,kernel,Out of support scope,Out of support scope
+CVE-2025-21681,kernel,不受影响,"代码受影响,但不会触发","代码受影响,但不会触发"
+CVE-2025-21682,kernel,Out of support scope,Out of support scope
+
+CVE-2025-21689,kernel,不受影响,
+CVE-2025-21692,kernel,不受影响,Out of support scope
+
+
+CVE-2025-21683,kernel,Out of support scope,Out of support scope

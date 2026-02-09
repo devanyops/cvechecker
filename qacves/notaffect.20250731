@@ -1,0 +1,24 @@
+CVE-2025-38420
+CVE-2025-38359,kernel,Fix deferred,Fix deferred
+CVE-2025-38369,kernel,不受影响,Fix deferred
+CVE-2025-38380,kernel,不受影响,Affected
+CVE-2025-38391,kernel,Affected,Affected
+CVE-2025-38392,kernel,不受影响,Affected
+CVE-2025-38402,kernel,不受影响,Affected
+CVE-2025-38415,kernel,Affected,Affected
+CVE-2025-38436,kernel,Out of support scope,Fix deferred
+CVE-2025-38438,kernel,不受影响,Fix deferred
+CVE-2025-38439,kernel,不受影响,Affected
+CVE-2025-38443,kernel,不受影响,Fix deferred
+CVE-2025-38444,kernel,不受影响,Fix deferred
+CVE-2025-38445,kernel,不受影响,Affected
+CVE-2025-38449,kernel,Out of support scope,Affected
+CVE-2025-38458,kernel,Out of support scope,Fix deferred
+CVE-2025-38459,kernel,Affected,Affected
+CVE-2025-38460,kernel,Fix deferred,Fix deferred
+CVE-2025-38464,kernel,不受影响,Affected
+CVE-2025-38473,kernel,不受影响,Affected
+CVE-2025-38474,kernel,Affected,Affected
+CVE-2025-38494,kernel,Affected,Affected
+CVE-2025-38495,kernel,Affected,Affected
+CVE-2023-53159: need check manually because of python package

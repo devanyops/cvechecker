@@ -1,0 +1,27 @@
+CVE-2021-47229
+CVE-2021-47234
+CVE-2022-2380
+CVE-2022-42328
+CVE-2022-42329
+CVE-2023-52511
+CVE-2025-22037
+CVE-2025-22038
+CVE-2025-22040
+CVE-2025-22041
+CVE-2025-37838
+CVE-2025-37925
+CVE-2020-36789,kernel,Out of support scope,Out of support scope
+CVE-2021-47236,kernel,Out of support scope,maybe fixed
+CVE-2022-45869,kernel,不受影响,maybe fixed
+CVE-2024-46774,kernel,Out of support scope,Fix deferred
+CVE-2023-1118,kernel,Out of support scope,maybe fixed
+CVE-2023-2194,kernel,不受影响,maybe fixed
+CVE-2025-22063,kernel,不受影响,Out of support scope
+CVE-2025-23136,kernel,不受影响,Out of support scope
+CVE-2025-4035,libsoup,Fix deferred,Fix deferred
+CVE-2025-46420,libsoup,Out of support scope,maybe fixed
+CVE-2025-46421,libsoup,Out of support scope,maybe fixed
+CVE-2025-46653,openshift-gitops-argocd-rhel9-container,Fix deferred,Fix deferred
+
+
+

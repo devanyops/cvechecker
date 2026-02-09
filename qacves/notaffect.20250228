@@ -1,0 +1,29 @@
+CVE-2020-36691
+CVE-2021-22600
+CVE-2023-1583
+CVE-2023-52608
+CVE-2024-57950
+CVE-2025-21687
+CVE-2025-21688
+CVE-2023-1079,kernel,不受影响,maybe fixed
+
+
+
+CVE-2024-45777,rhcos,Out of support scope,Out of support scope
+CVE-2024-45781,rhcos,Out of support scope,Out of support scope
+CVE-2024-45783,rhcos,Out of support scope,Out of support scope
+CVE-2025-0622,rhcos,Out of support scope,Out of support scope
+CVE-2025-0624,rhcos,Affected,Affected
+CVE-2025-0677,rhcos,Out of support scope,Out of support scope
+CVE-2025-0690,rhcos,Out of support scope,Out of support scope
+CVE-2025-1118,rhcos,Out of support scope,Out of support scope
+CVE-2024-45776,grub2,不受影响,受影响,NA
+
+
+CVE-2025-21681,kernel,Out of support scope,Out of support scope
+CVE-2025-21689,kernel,Out of support scope,Out of support scope
+CVE-2025-21690,kernel,Out of support scope,Out of support scope
+CVE-2025-21692,kernel,不受影响,Out of support scope
+CVE-2025-26603,vim,Out of support scope,Out of support scope
+CVE-2024-36353,kernel,Out of support scope,Out of support scope
+CVE-2025-1632,rhcos,Fix deferred,Fix deferred

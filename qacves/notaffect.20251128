@@ -1,0 +1,26 @@
+CVE-2025-66293
+CVE-2025-68244
+CVE-2025-68295
+CVE-2025-68296
+CVE-2025-68297
+CVE-2025-12084
+CVE-2025-68313,kernel,不受影响,不受影响,受影响
+CVE-2025-68265,kernel,Fix deferred,Fix deferred
+CVE-2025-68283,kernel,Fix deferred,Fix deferred
+CVE-2025-68284,kernel,Affected,Affected
+CVE-2025-68285,kernel,Affected,Affected
+CVE-2025-68288,kernel,Fix deferred,Fix deferred
+CVE-2025-68291,kernel,不受影响,Fix deferred
+CVE-2025-68300,kernel,Fix deferred,Fix deferred
+CVE-2025-68301,kernel,不受影响,Affected
+CVE-2025-68308,kernel,不受影响,Fix deferred
+CVE-2025-68310,kernel,不受影响,Fix deferred
+CVE-2025-14512,rhcos,Fix deferred,Fix deferred
+CVE-2025-14087,mingw-glib2,Fix deferred,Fix deferred
+CVE-2025-14523,libsoup,Affected,Affected
+CVE-2025-40345,kernel,Will not fix,Will not fix
+CVE-2025-68245,kernel,不受影响,Fix deferred
+CVE-2025-68321,kernel,Fix deferred,Fix deferred
+
+
+

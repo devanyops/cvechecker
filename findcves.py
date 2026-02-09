@@ -1,0 +1,44 @@
+#!/usr/bin/python3
+
+import os
+import json
+
+affect_file = "/Users/wangli/cvechecker/debian.list"
+def parse_data(data):
+    header_dir = data['Header']
+    cve_id = header_dir['ID']
+
+    pkg_name = None
+    if data['Annotations']:
+        should_record = False
+        for pkg in data['Annotations']:
+            if pkg['Type'] == 'package':
+                release = pkg.get('Release', 'none')
+                package = pkg.get('Package', 'none')
+                kind = pkg.get('Kind', 'none')
+                if release == 'buster' and package == 'linux':
+                    if kind != 'not-affected' and kind != 'ignored':
+                        should_record = True
+        if should_record:
+            with open(affect_file, "a+") as f:
+                f.write(cve_id)
+                f.write('\n')
+        else:
+            print(cve_id)
+    else:
+        print("%s: need check manually because of data" % cve_id)
+
+vuln_dir = "/Users/wangli/develop/vuln-list-debian/tracker/CVE/"
+year_dir_list = [str(i) for i in range(2014, 2025)]
+for year_dir_name in year_dir_list:
+    vuln_dir_sub = vuln_dir + year_dir_name
+    vuln_dir_sub_files = os.listdir(vuln_dir_sub)
+    for f in vuln_dir_sub_files:
+        file_full_name = vuln_dir_sub + "/" + f
+        print(file_full_name)
+        if not os.path.isfile(file_full_name):
+            continue
+        with open(file_full_name, "r") as jfp:
+            data = json.load(jfp)
+            parse_data(data)
+

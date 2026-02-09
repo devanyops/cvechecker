@@ -1,0 +1,6 @@
+CVE-2025-12863
+CVE-2025-6075
+
+CVE-2025-10966,rhtpa/rhtpa-trustification-service-rhel9,Fix deferred,Fix deferred
+CVE-2025-12748,libvirt,Out of support scope,Fix deferred
+

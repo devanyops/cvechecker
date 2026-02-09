@@ -1,0 +1,7 @@
+CVE-2025-38111,kernel,Out of support scope,Fix deferred
+CVE-2025-38239,kernel,Fix deferred,Fix deferred
+CVE-2025-38245,kernel,Fix deferred,Fix deferred
+CVE-2025-38248,kernel,不受影响,Affected
+CVE-2025-38249,kernel,Fix deferred,Fix deferred
+CVE-2025-38250,kernel,Out of support scope,Affected
+CVE-2025-38262,kernel,不受影响,Fix deferred

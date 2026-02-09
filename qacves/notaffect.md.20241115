@@ -1,0 +1,81 @@
+CVE-2021-47583
+CVE-2022-48996
+CVE-2022-48998
+CVE-2024-49946
+CVE-2024-49947
+CVE-2024-49951
+CVE-2024-49953
+CVE-2024-49954
+CVE-2024-49958
+CVE-2024-49961
+CVE-2024-49963
+CVE-2024-49964
+CVE-2024-49965
+CVE-2024-49966
+CVE-2024-49968
+CVE-2024-50004
+CVE-2024-50005
+CVE-2024-50010
+CVE-2024-50090
+CVE-2024-50091
+CVE-2024-50096
+CVE-2024-50097
+CVE-2024-50098
+CVE-2024-50100
+CVE-2024-50101
+CVE-2024-50102
+CVE-2024-50103
+CVE-2024-50104
+CVE-2024-50105
+CVE-2024-50107
+CVE-2024-50108
+CVE-2024-50109
+CVE-2024-50111
+CVE-2024-50112
+CVE-2024-50113
+CVE-2024-50114
+CVE-2024-50116
+CVE-2024-50118
+CVE-2024-50119
+CVE-2024-50120
+CVE-2024-50121
+CVE-2024-50123
+CVE-2024-50124
+CVE-2024-50126
+CVE-2024-50127
+CVE-2024-50128
+CVE-2024-50129
+CVE-2024-50130
+CVE-2024-50131
+CVE-2024-50132
+CVE-2024-50133
+CVE-2024-50137
+CVE-2024-50140
+CVE-2024-50157
+CVE-2024-50158
+CVE-2024-50164
+CVE-2024-50165
+CVE-2024-50172
+CVE-2022-48985,kernel,不受影响,Out of support scope
+CVE-2022-48994,kernel,Out of support scope,Affected
+CVE-2022-48997,kernel,Out of support scope,maybe fixed
+CVE-2024-42229,kernel,Out of support scope,Will not fix
+CVE-2024-49959,kernel,Out of support scope,Will not fix
+CVE-2024-50008,kernel,Out of support scope,Will not fix
+CVE-2024-50093,kernel,不受影响,Will not fix
+CVE-2024-50095,kernel,Out of support scope,Will not fix
+CVE-2024-50099,kernel,不受影响,maybe fixed
+CVE-2024-50106,kernel,Out of support scope,Will not fix
+CVE-2024-50117,kernel,Out of support scope,Will not fix
+CVE-2024-50125,kernel,Out of support scope,Will not fix
+CVE-2024-50134,kernel,不受影响,Will not fix
+CVE-2024-50135,kernel,Out of support scope,Will not fix
+CVE-2024-50136,kernel,Out of support scope,Will not fix
+CVE-2024-50138,kernel,不受影响,Will not fix
+CVE-2024-50143,kernel,Out of support scope,Will not fix
+CVE-2024-50148,kernel,Out of support scope,Will not fix
+CVE-2024-50167,kernel,Out of support scope,Will not fix
+CVE-2024-52530,libsoup,--,maybe fixed
+CVE-2024-52531,libsoup,Fix deferred,Fix deferred
+CVE-2024-52532,libsoup,Out of support scope,maybe fixed
+CVE-2024-52533,mingw-glib2,Out of support scope,Will not fix

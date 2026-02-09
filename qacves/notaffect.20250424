@@ -1,0 +1,112 @@
+CVE-2019-16905
+CVE-2021-47669
+CVE-2022-3104
+CVE-2022-3110
+CVE-2022-3111
+CVE-2022-3112
+CVE-2022-3113
+CVE-2022-3114
+CVE-2022-3115
+CVE-2022-49382
+CVE-2022-49389
+CVE-2024-58093
+CVE-2025-21961
+CVE-2025-22024
+CVE-2025-22030
+CVE-2025-22034
+CVE-2025-22035
+CVE-2025-22044
+CVE-2025-22046
+CVE-2025-22047
+CVE-2025-22050
+CVE-2025-22064
+CVE-2025-22085
+CVE-2025-22087
+CVE-2025-22091
+CVE-2025-22092
+CVE-2025-22105
+CVE-2025-22106
+CVE-2025-22111
+CVE-2025-22112
+CVE-2025-22113
+CVE-2025-22114
+CVE-2025-22119
+CVE-2025-22120
+CVE-2025-22126
+CVE-2025-23134
+CVE-2025-29087
+CVE-2025-39688
+CVE-2011-1935 not affected
+CVE-2016-3124 not affected
+CVE-2016-9814 not affected
+CVE-2016-9955 not affected
+CVE-2017-12869 not affected
+CVE-2017-12870 not affected
+CVE-2017-12871 not affected
+CVE-2017-12872 not affected
+CVE-2017-12873 not affected
+CVE-2022-46609 not affected
+CVE-2015-5300,ntp,maybe fixed,--
+CVE-2015-7691,ntp,maybe fixed,--
+CVE-2015-7692,ntp,maybe fixed,--
+CVE-2015-7701,ntp,maybe fixed,--
+CVE-2015-7703,ntp,maybe fixed,--
+CVE-2015-7705,ntp,Will not fix,--
+CVE-2015-7848,ntp,不受影响,--
+CVE-2015-7849,ntp,不受影响,--
+CVE-2015-7853,ntp,不受影响,--
+CVE-2015-7854,ntp,不受影响,--
+CVE-2015-7871,ntp,不受影响,--
+CVE-2015-7974,ntp,maybe fixed,--
+CVE-2015-7978,ntp,maybe fixed,--
+CVE-2015-7979,ntp,maybe fixed,--
+CVE-2019-11331,ntp,Will not fix,--
+CVE-2019-8936,redhat-virtualization-host,不受影响,--
+CVE-2016-10195,openmpi,maybe fixed,--
+CVE-2016-10197,openmpi,maybe fixed,--
+CVE-2016-4483,libxml2,Will not fix,--
+CVE-2016-6210,openssh,maybe fixed,--
+CVE-2017-8872,libxml2,Will not fix,--
+CVE-2018-7182,ntp,不受影响,Will not fix
+CVE-2017-9047,libxml2,Will not fix,Affected
+CVE-2017-9050,libxml2,Will not fix,Affected
+CVE-2020-36789,kernel,Out of support scope,Out of support scope
+CVE-2021-47668,kernel,Out of support scope,Out of support scope
+CVE-2021-47670,kernel,不受影响,Affected
+CVE-2022-3105,kernel,Out of support scope,maybe fixed
+CVE-2022-3106,kernel,Out of support scope,maybe fixed
+CVE-2022-3108,kernel,Out of support scope,maybe fixed
+CVE-2022-49395,kernel,Out of support scope,Out of support scope
+CVE-2022-49404,kernel,Out of support scope,Out of support scope
+CVE-2022-49410,kernel,不受影响,Out of support scope
+CVE-2022-49414,kernel,Out of support scope,Out of support scope
+CVE-2023-53034,kernel,Out of support scope,Out of support scope
+CVE-2024-42094,kernel,Out of support scope,maybe fixed
+CVE-2024-58096,kernel,不受影响,Out of support scope
+CVE-2024-58097,kernel,不受影响,Out of support scope
+CVE-2025-21992,kernel,不受影响,Out of support scope
+CVE-2025-22025,kernel,Out of support scope,Out of support scope
+CVE-2025-22026,kernel,Out of support scope,Out of support scope
+CVE-2025-22027,kernel,Out of support scope,Out of support scope
+CVE-2025-22045,kernel,Out of support scope,Out of support scope
+CVE-2025-37860,kernel,不受影响,Out of support scope
+CVE-2025-40325,kernel,Out of support scope,Out of support scope
+CVE-2025-22053,kernel,Out of support scope,Out of support scope
+CVE-2025-22055,kernel,Out of support scope,Out of support scope
+CVE-2025-22062,kernel,Out of support scope,Out of support scope
+CVE-2025-22063,kernel,不受影响,Out of support scope
+CVE-2025-22075,kernel,Out of support scope,Out of support scope
+CVE-2025-22089,kernel,Out of support scope,Out of support scope
+CVE-2025-22097,kernel,不受影响,Out of support scope
+CVE-2025-22104,kernel,Out of support scope,Out of support scope
+CVE-2025-22116,kernel,不受影响,Out of support scope
+CVE-2025-22124,kernel,Out of support scope,Out of support scope
+CVE-2025-22125,kernel,Out of support scope,Out of support scope
+CVE-2025-23131,kernel,Out of support scope,Out of support scope
+CVE-2025-23133,kernel,不受影响,Out of support scope
+CVE-2025-23136,kernel,不受影响,Out of support scope
+CVE-2025-2784,libsoup,Out of support scope,Out of support scope
+CVE-2025-32415,rhcos,Fix deferred,Fix deferred
+CVE-2014-4616, need check manually because of python package
+CVE-2017-1000158, need check manually because of python package
+CVE-2017-12794, need check manually because of python package

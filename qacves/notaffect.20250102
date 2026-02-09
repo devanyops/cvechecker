@@ -1,0 +1,132 @@
+CVE-2021-46979
+CVE-2021-46980
+CVE-2021-46982
+CVE-2021-46986
+CVE-2021-47233
+CVE-2021-47235
+CVE-2021-47237
+CVE-2021-47240
+CVE-2021-47249
+CVE-2021-47253
+CVE-2021-47268
+CVE-2021-47273
+CVE-2021-47278
+CVE-2021-47279
+CVE-2021-47283
+CVE-2021-47299
+CVE-2021-47300
+CVE-2021-47306
+CVE-2021-47309
+CVE-2021-47318
+CVE-2021-47328
+CVE-2021-47334
+CVE-2021-47355
+CVE-2021-47357
+CVE-2021-47358
+CVE-2021-47361
+CVE-2021-47362
+CVE-2021-47363
+CVE-2021-47364
+CVE-2021-47372
+CVE-2021-47390
+CVE-2021-47409
+CVE-2021-47417
+CVE-2021-47418
+CVE-2021-47422
+CVE-2021-47423
+CVE-2022-48707
+CVE-2022-48708
+CVE-2023-52705
+CVE-2023-52812
+CVE-2023-52826
+CVE-2023-52841
+CVE-2023-52842
+CVE-2023-52846
+CVE-2023-52848
+CVE-2023-52849
+CVE-2023-52850
+CVE-2023-52852
+CVE-2024-27070
+CVE-2024-27392
+CVE-2024-35846
+CVE-2024-35850
+CVE-2024-35851
+CVE-2024-35856
+CVE-2024-35858
+CVE-2024-35861
+CVE-2024-35862
+CVE-2024-35863
+CVE-2024-35864
+CVE-2024-35866
+CVE-2024-35867
+CVE-2024-35868
+CVE-2024-35874
+CVE-2024-35887
+CVE-2024-35889
+CVE-2024-35891
+CVE-2024-35894
+CVE-2024-35902
+CVE-2024-35921
+CVE-2024-56635
+CVE-2024-56644
+CVE-2024-56646
+CVE-2024-56650
+CVE-2024-56654
+CVE-2024-56655
+CVE-2024-56662
+CVE-2024-56665
+CVE-2024-56674
+CVE-2024-56675
+CVE-2024-56710
+CVE-2024-56737
+CVE-2024-56749
+CVE-2024-56753
+CVE-2021-47239,kernel,Out of support scope,Affected
+CVE-2021-47254,kernel,Out of support scope,Will not fix
+CVE-2021-47266,kernel,Out of support scope,Affected
+CVE-2021-47307,kernel,Out of support scope,Will not fix
+CVE-2021-47388,kernel,Out of support scope,Affected
+CVE-2021-47415,kernel,Out of support scope,Affected
+CVE-2021-47416,kernel,Out of support scope,Fix deferred
+CVE-2021-47420,kernel,Out of support scope,Fix deferred
+CVE-2021-47426,kernel,Out of support scope,Fix deferred
+CVE-2022-48710,kernel,Out of support scope,Affected
+CVE-2023-52818,kernel,Out of support scope,Fix deferred
+CVE-2023-52833,kernel,Out of support scope,Fix deferred
+CVE-2023-52840,kernel,Out of support scope,maybe fixed
+CVE-2024-26903,kernel,Out of support scope,Fix deferred
+CVE-2024-35852,kernel,Out of support scope,maybe fixed
+CVE-2024-35855,kernel,Out of support scope,maybe fixed
+CVE-2024-56433,rhcos,Fix deferred,Fix deferred
+CVE-2024-56558,kernel,Out of support scope,Out of support scope
+CVE-2024-56631,kernel,Out of support scope,Out of support scope
+CVE-2024-56637,kernel,Out of support scope,Out of support scope
+CVE-2024-56614,kernel,不受影响,Out of support scope
+CVE-2024-56633,kernel,不受影响,Out of support scope
+CVE-2024-56640,kernel,不受影响,Out of support scope
+CVE-2024-56641,kernel,不受影响,Out of support scope
+CVE-2024-56642,kernel,不受影响,Out of support scope
+CVE-2024-56657,kernel,不受影响,Out of support scope
+CVE-2024-56658,kernel,Out of support scope,Out of support scope
+CVE-2024-56659,kernel,Out of support scope,Out of support scope
+CVE-2024-56663,kernel,Out of support scope,Out of support scope
+CVE-2024-56667,kernel,Out of support scope,Out of support scope
+CVE-2024-56715,kernel,不受影响,Out of support scope
+CVE-2024-56716,kernel,不受影响,Out of support scope
+CVE-2024-56718,kernel,不受影响,Out of support scope
+CVE-2024-56752,kernel,Out of support scope,Out of support scope
+CVE-2024-56756,kernel,Out of support scope,Out of support scope
+
+
+
+
+
+CVE-2024-35895,kernel,Out of support scope,Under investigation
+CVE-2024-35905,kernel,Out of support scope,Under investigation
+CVE-2024-35907,kernel,不受影响,Under investigation
+CVE-2024-35922,kernel,不受影响,Under investigation
+CVE-2024-35929,kernel,Out of support scope,Under investigation
+CVE-2024-35933,kernel,Out of support scope,Under investigation
+CVE-2024-56636,kernel,Under investigation,Out of support scope
+
+

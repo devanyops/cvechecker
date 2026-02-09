@@ -1,0 +1,7 @@
+CVE, 三方包, 网安产品, iSecOS
+CVE-2023-46316,traceroute,受影响,受影响
+CVE-2023-34059,open-vm-tools,"代码受影响，但不会触发",受影响
+CVE-2023-34058,open-vm-tools,受影响,受影响
+CVE-2023-46136,python,研究中,受影响
+
+

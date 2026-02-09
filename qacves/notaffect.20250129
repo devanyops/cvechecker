@@ -1,0 +1,40 @@
+CVE-2021-47035
+CVE-2024-26863
+CVE-2024-26866
+CVE-2024-26879
+CVE-2024-26893
+CVE-2024-57923
+CVE-2024-57927
+CVE-2024-57934
+CVE-2024-57940
+CVE-2024-57944
+CVE-2025-21650
+CVE-2025-21652
+CVE-2025-21654
+CVE-2025-21658
+CVE-2014-4608,kernel,不受影响,--
+CVE-2015-3043,need check manually because of data
+CVE-2015-5119,need check manually because of data
+CVE-2015-7645,need check manually because of data
+CVE-2025-21636,kernel,Out of support scope,Out of support scope
+CVE-2025-21637,kernel,Out of support scope,Out of support scope
+CVE-2025-21638,kernel,Out of support scope,Out of support scope
+CVE-2025-21639,kernel,Out of support scope,Out of support scope
+CVE-2025-21640,kernel,Out of support scope,Out of support scope
+CVE-2025-21648,kernel,Out of support scope,Out of support scope
+CVE-2025-21653,kernel,Under investigation,Out of support scope
+CVE-2025-21664,kernel,Out of support scope,Out of support scope
+CVE-2021-47183,kernel,Out of support scope,Affected
+CVE-2022-48834,kernel,Out of support scope,Will not fix
+CVE-2024-26649,kernel,不受影响,maybe fixed
+CVE-2024-26770,kernel,Out of support scope,Under investigation
+CVE-2024-26771,kernel,Out of support scope,Will not fix
+CVE-2024-42067,kernel,Out of support scope,Fix deferred
+CVE-2024-42068,kernel,Out of support scope,Fix deferred
+CVE-2024-50282,kernel,Out of support scope,Out of support scope
+CVE-2024-57917,kernel,Out of support scope,Out of support scope
+CVE-2024-57924,kernel,Out of support scope,Out of support scope
+CVE-2024-57929,kernel,Out of support scope,Out of support scope
+CVE-2024-57938,kernel,Out of support scope,Out of support scope
+CVE-2024-57947,kernel,不受影响,Out of support scope
+CVE-2025-0395,rhcos,Out of support scope,Out of support scope

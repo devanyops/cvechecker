@@ -1,0 +1,6 @@
+CVE,软件包名,网安产品,iSecOS, kylin kernel
+CVE-2022-49043,libxml2,不受影响,受影响,NA
+CVE-2023-52646,kernel,不受影响,受影响,受影响
+CVE-2024-23307,kernel,不受影响,受影响,受影响
+
+

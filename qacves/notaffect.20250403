@@ -1,0 +1,179 @@
+CVE-2022-49744
+CVE-2022-49754
+CVE-2022-49760
+CVE-2022-49761
+CVE-2023-52929
+CVE-2023-52933
+CVE-2023-52940
+CVE-2023-52979
+CVE-2023-53004
+CVE-2023-53012
+CVE-2023-53018
+CVE-2023-53025
+CVE-2023-53033
+CVE-2025-21867
+CVE-2025-21868
+CVE-2025-21869
+CVE-2025-21879
+CVE-2025-21884
+CVE-2025-21887
+CVE-2025-21889
+CVE-2025-21893
+CVE-2025-21895
+CVE-2025-21896
+CVE-2025-21898
+CVE-2025-21900
+CVE-2025-21901
+CVE-2025-21902
+CVE-2025-21905
+CVE-2025-21906
+CVE-2025-21907
+CVE-2025-21908
+CVE-2025-21913
+CVE-2025-21929
+CVE-2025-21930
+CVE-2025-21933
+CVE-2025-21937
+CVE-2025-21942
+CVE-2025-21954
+CVE-2025-21958
+CVE-2025-21966
+CVE-2025-21973
+CVE-2025-21979
+CVE-2025-21983
+CVE-2025-21984
+CVE-2025-21986
+CVE-2025-21981,kernel,不受影响,Out of support scope
+CVE-2025-21963,kernel,不受影响,Out of support scope
+CVE-2025-21964,kernel,不受影响,Out of support scope
+CVE-2025-21969,kernel,Out of support scope,Out of support scope
+CVE-2025-21971,kernel,Out of support scope,Out of support scope
+CVE-2025-21980,kernel,Out of support scope,Out of support scope
+CVE-2025-21991,kernel,Out of support scope,Out of support scope
+CVE-2025-21993,kernel,Out of support scope,Out of support scope
+CVE-2022-49739,kernel,Out of support scope,Out of support scope
+CVE-2022-49740,kernel,Out of support scope,Out of support scope
+CVE-2022-49743,kernel,Out of support scope,Out of support scope
+CVE-2022-49748,kernel,Out of support scope,Out of support scope
+CVE-2022-49749,kernel,不受影响,Out of support scope
+CVE-2022-49750,kernel,不受影响,Out of support scope
+CVE-2022-49752,kernel,Out of support scope,Out of support scope
+CVE-2022-49753,kernel,Out of support scope,Out of support scope
+CVE-2022-49759,kernel,Out of support scope,Out of support scope
+CVE-2023-52928,kernel,Out of support scope,Out of support scope
+CVE-2023-52931,kernel,不受影响,Out of support scope
+CVE-2023-52936,kernel,Out of support scope,Out of support scope
+CVE-2023-52937,kernel,Out of support scope,Out of support scope
+CVE-2023-52938,kernel,Out of support scope,Out of support scope
+CVE-2023-52939,kernel,Out of support scope,Out of support scope
+CVE-2023-52942,kernel,不受影响,Out of support scope
+CVE-2023-52974,kernel,Under investigation,Out of support scope
+CVE-2023-52975,kernel,Under investigation,Affected
+CVE-2023-52976,kernel,Out of support scope,Out of support scope
+CVE-2023-52981,kernel,Out of support scope,Out of support scope
+CVE-2023-52983,kernel,不受影响,Out of support scope
+CVE-2023-52984,kernel,不受影响,Out of support scope
+CVE-2023-52986,kernel,不受影响,Out of support scope
+CVE-2023-52987,kernel,不受影响,Affected
+CVE-2023-52988,kernel,Out of support scope,Out of support scope
+CVE-2023-52989,kernel,Out of support scope,Out of support scope
+CVE-2023-52990,kernel,Out of support scope,Out of support scope
+CVE-2023-52991,kernel,Out of support scope,Out of support scope
+CVE-2023-52992,kernel,Out of support scope,Out of support scope
+CVE-2023-52994,kernel,Out of support scope,Out of support scope
+CVE-2023-53001,kernel,Out of support scope,Out of support scope
+CVE-2023-53005,kernel,不受影响,Out of support scope
+CVE-2023-53006,kernel,不受影响,Out of support scope
+CVE-2023-53007,kernel,Out of support scope,Out of support scope
+CVE-2023-53008,kernel,Out of support scope,Out of support scope
+CVE-2023-53009,kernel,不受影响,Out of support scope
+CVE-2023-53010,kernel,Out of support scope,Out of support scope
+CVE-2023-53011,kernel,不受影响,Out of support scope
+CVE-2023-53013,kernel,不受影响,Out of support scope
+CVE-2023-53015,kernel,不受影响,Out of support scope
+CVE-2023-53016,kernel,Out of support scope,Out of support scope
+CVE-2023-53019,kernel,Out of support scope,Out of support scope
++CVE-2022-49739
++CVE-2022-49740
++CVE-2022-49743
++CVE-2022-49748
++CVE-2022-49749
++CVE-2022-49750
++CVE-2022-49752
++CVE-2022-49753
++CVE-2022-49759
++CVE-2023-52928
++CVE-2023-52931
++CVE-2023-52936
++CVE-2023-52937
++CVE-2023-52938
++CVE-2023-52939
++CVE-2023-52942
++CVE-2023-52974
++CVE-2023-52975
++CVE-2023-52976
++CVE-2023-52981
++CVE-2023-52983
++CVE-2023-52984
++CVE-2023-52986
++CVE-2023-52987
++CVE-2023-52988
++CVE-2023-52989
++CVE-2023-52990
++CVE-2023-52991
++CVE-2023-52992
++CVE-2023-52994
++CVE-2023-53001
++CVE-2023-53005
++CVE-2023-53006
++CVE-2023-53007
++CVE-2023-53008
++CVE-2023-53009
++CVE-2023-53010
++CVE-2023-53011
++CVE-2023-53013
++CVE-2023-53015
++CVE-2023-53016
++CVE-2023-53019
++CVE-2023-53020
++CVE-2023-53021
++CVE-2023-53024
++CVE-2023-53026
++CVE-2023-53028
++CVE-2023-53031
++CVE-2023-53032
++CVE-2024-58090
++CVE-2025-21870
++CVE-2025-21872
++CVE-2025-21875
++CVE-2025-21877
++CVE-2025-21881
++CVE-2025-21885
++CVE-2025-21886
++CVE-2025-21888
++CVE-2025-21890
++CVE-2025-21892
++CVE-2025-21899
++CVE-2025-21909
++CVE-2025-21910
++CVE-2025-21916
++CVE-2025-21918
++CVE-2025-21919
++CVE-2025-21922
++CVE-2025-21927
++CVE-2025-21928
++CVE-2025-21931
++CVE-2025-21936
++CVE-2025-21938
++CVE-2025-21948
++CVE-2025-21951
++CVE-2025-21963
++CVE-2025-21964
++CVE-2025-21969
++CVE-2025-21971
++CVE-2025-21980
++CVE-2025-21981
++CVE-2025-21991
++CVE-2025-21993
+
+

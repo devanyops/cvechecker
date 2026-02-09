@@ -1,0 +1,8 @@
+CVE-2025-38087
+CVE-2025-4947
+CVE-2024-11584,cloud-init,Out of support scope,Fix deferred
+CVE-2024-6174,cloud-init,Out of support scope,maybe fixed
+
+正在研究中:
+CVE-2025-38084,kernel,Under investigation,Affected
+

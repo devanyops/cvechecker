@@ -1,0 +1,80 @@
+CVE-2021-47048
+CVE-2021-47051
+CVE-2021-47053
+CVE-2021-47059
+CVE-2021-47061
+CVE-2021-47062
+CVE-2023-52503
+CVE-2024-42150
+CVE-2024-42151
+CVE-2024-50177
+CVE-2024-50184
+CVE-2024-20923
+CVE-2024-20925
+CVE-2024-53141
+CVE-2024-53142
+CVE-2020-36778,kernel,Out of support scope,不受影响
+CVE-2020-36779,kernel,Out of support scope,不受影响
+CVE-2020-36781,kernel,Out of support scope,不受影响
+CVE-2020-36782,kernel,Out of support scope,不受影响
+CVE-2020-36783,kernel,Out of support scope,不受影响
+CVE-2020-36784,kernel,Out of support scope,不受影响
+CVE-2020-36785,kernel,Out of support scope,不受影响
+CVE-2020-36786,kernel,Out of support scope,不受影响
+CVE-2021-46955,kernel,Out of support scope,不受影响
+CVE-2021-46956,kernel,Out of support scope,不受影响
+CVE-2021-46959,kernel,Out of support scope,不受影响
+CVE-2021-46966,kernel,Out of support scope,不受影响
+CVE-2021-46967,kernel,Out of support scope,不受影响
+CVE-2021-46981,kernel,Out of support scope,不受影响
+CVE-2021-46983,kernel,Out of support scope,maybe fixed
+CVE-2021-46984,kernel,Out of support scope,maybe fixed
+CVE-2021-46985,kernel,Out of support scope,不受影响
+CVE-2021-46987,kernel,Out of support scope,不受影响
+CVE-2021-46991,kernel,Out of support scope,不受影响
+CVE-2021-46994,kernel,Out of support scope,不受影响
+CVE-2021-46995,kernel,Out of support scope,不受影响
+CVE-2021-46996,kernel,Out of support scope,不受影响
+CVE-2021-46998,kernel,Out of support scope,不受影响
+CVE-2021-47002,kernel,Out of support scope,不受影响
+CVE-2021-47003,kernel,Out of support scope,Affected
+CVE-2021-47005,kernel,Out of support scope,不受影响
+CVE-2021-47008,kernel,Out of support scope,不受影响
+CVE-2021-47009,kernel,Out of support scope,不受影响
+CVE-2021-47012,kernel,Out of support scope,Affected
+CVE-2021-47017,kernel,Under investigation,Under investigation
+CVE-2021-47020,kernel,Out of support scope,Under investigation
+CVE-2021-47021,kernel,Out of support scope,不受影响
+CVE-2021-47022,kernel,Out of support scope,不受影响
+CVE-2021-47025,kernel,Out of support scope,不受影响
+CVE-2021-47028,kernel,Out of support scope,不受影响
+CVE-2021-47030,kernel,Out of support scope,不受影响
+CVE-2021-47038,kernel,Out of support scope,Affected
+CVE-2021-47042,kernel,Out of support scope,不受影响
+CVE-2021-47046,kernel,Out of support scope,不受影响
+CVE-2021-47049,kernel,Out of support scope,不受影响
+CVE-2021-47050,kernel,Out of support scope,不受影响
+CVE-2021-47052,kernel,Out of support scope,不受影响
+CVE-2021-47054,kernel,Out of support scope,不受影响
+CVE-2021-47058,kernel,Out of support scope,不受影响
+CVE-2021-47063,kernel,Out of support scope,不受影响
+CVE-2021-47065,kernel,Out of support scope,不受影响
+CVE-2021-47067,kernel,Out of support scope,不受影响
+CVE-2021-47068,kernel,Out of support scope,不受影响
+CVE-2021-47079,kernel,Out of support scope,Under investigation
+CVE-2021-47080,kernel,Out of support scope,maybe fixed
+CVE-2021-47081,kernel,Out of support scope,不受影响
+CVE-2023-52475,kernel,Out of support scope,Fix deferred
+CVE-2023-52484,kernel,Out of support scope,不受影响
+CVE-2024-42149,kernel,Out of support scope,不受影响
+CVE-2024-50157,kernel,Out of support scope,不受影响
+CVE-2024-53105,kernel,Out of support scope,不受影响
+CVE-2024-53107,kernel,Out of support scope,不受影响
+CVE-2024-53109,kernel,Out of support scope,不受影响
+CVE-2024-53111,kernel,Out of support scope,不受影响
+CVE-2024-53113,kernel,Out of support scope,不受影响
+CVE-2024-53115,kernel,Out of support scope,不受影响
+CVE-2024-53117,kernel,Out of support scope,不受影响
+CVE-2024-53118,kernel,Out of support scope,不受影响
+CVE-2024-53130,kernel,Out of support scope,不受影响
+CVE-2024-53137,kernel,Out of support scope,不受影响

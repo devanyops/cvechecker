@@ -1,0 +1,18 @@
+CVE-2023-4458
+CVE-2025-32990,rhcos,Out of support scope,maybe fixed
+CVE-2024-13978,libtiff,Fix deferred,Fix deferred
+CVE-2025-38262,kernel,不受影响,Fix deferred
+CVE-2025-38352,kernel,--,maybe fixed
+CVE-2025-38412,kernel,不受影响,Fix deferred
+CVE-2025-38498,kernel,Out of support scope,maybe fixed
+CVE-2025-4878,rhcos,Out of support scope,Fix deferred
+CVE-2025-48964,iputils,Fix deferred,Fix deferred
+CVE-2025-5351,rhcos,Out of support scope,Fix deferred
+CVE-2025-5372,rhcos,Out of support scope,Fix deferred
+CVE-2025-38111,kernel,Out of support scope,Fix deferred
+CVE-2025-38239,kernel,Fix deferred,Fix deferred
+CVE-2025-38245,kernel,Fix deferred,Fix deferred
+CVE-2025-38249,kernel,Fix deferred,Fix deferred
+CVE-2025-38250,kernel,Out of support scope,maybe fixed
+
+
