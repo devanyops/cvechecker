@@ -1,0 +1,7 @@
+CVE,软件包名,网安产品,iSecOS, kylin kernel
+CVE-2026-27135,nghttp2,不受影响,受影响,NA
+CVE-2026-4948,firewalld,不受影响,Under investigation,NA
+CVE-2026-5119,libsoup,Affected,Affected,NA
+
+
+

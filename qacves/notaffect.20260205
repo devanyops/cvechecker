@@ -1,0 +1,23 @@
+CVE-2025-71183
+CVE-2025-71184
+CVE-2025-28164,rhcos,Fix deferred,Fix deferred
+CVE-2026-1536,libsoup,Fix deferred,Fix deferred
+CVE-2026-1539,libsoup,Fix deferred,Fix deferred
+CVE-2026-1757,rhcos,Fix deferred,Fix deferred
+CVE-2026-1760,libsoup,Fix deferred,Fix deferred
+CVE-2026-1761,libsoup,--,maybe fixed
+CVE-2026-1801,libsoup,Fix deferred,Fix deferred
+CVE-2026-22976,kernel,Affected,Affected
+CVE-2026-22977,kernel,不受影响,Fix deferred
+CVE-2026-23017,kernel,不受影响,Affected
+CVE-2026-23021,kernel,Affected,Affected
+CVE-2026-23023,kernel,不受影响,Affected
+CVE-2026-23035,kernel,不受影响,Affected
+CVE-2026-23038,kernel,Affected,Affected
+CVE-2026-24401,rhcos,Fix deferred,Fix deferred
+CVE-2026-24825,rhcos,Fix deferred,Fix deferred
+CVE-2026-24883,gnupg2,Fix deferred,Fix deferred
+CVE-2026-25068,alsa-lib,Fix deferred,Fix deferred
+CVE-2025-12781, need check manually because of python package
+CVE-2025-13465, need check manually because of python package
+CVE-2026-1299, need check manually because of python package

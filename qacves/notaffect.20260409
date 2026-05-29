@@ -1,0 +1,47 @@
+CVE-2026-23315
+CVE-2026-23444
+CVE-2026-23458
+CVE-2026-23462
+CVE-2026-23471
+CVE-2026-3119
+CVE-2026-31392
+CVE-2026-31393
+CVE-2026-31408
+CVE-2026-33416
+CVE-2026-33636
+CVE-2026-3591
+CVE-2026-23439,kernel,Fix deferred,Fix deferred
+CVE-2026-23447,kernel,不受影响,Fix deferred
+CVE-2026-23448,kernel,Fix deferred,Fix deferred
+CVE-2026-23449,kernel,不受影响,Fix deferred
+CVE-2026-23450,kernel,不受影响,Fix deferred
+CVE-2026-23452,kernel,Fix deferred,Fix deferred
+CVE-2026-23454,kernel,不受影响,Fix deferred
+CVE-2026-23455,kernel,Affected,Affected
+CVE-2026-23456,kernel,Fix deferred,Fix deferred
+CVE-2026-23457,kernel,Fix deferred,Fix deferred
+CVE-2026-23472,kernel,Fix deferred,Fix deferred
+CVE-2026-27447,rhcos,Out of support scope,Fix deferred
+CVE-2026-27456,rhcos,不受影响,Fix deferred
+CVE-2026-31394,kernel,Fix deferred,Fix deferred
+CVE-2026-31399,kernel,Fix deferred,Fix deferred
+CVE-2026-31400,kernel,Fix deferred,Fix deferred
+CVE-2026-31402,kernel,Affected,maybe fixed
+CVE-2026-31403,kernel,Fix deferred,Fix deferred
+CVE-2026-31407,kernel,Fix deferred,Fix deferred
+CVE-2026-34085,fontconfig,不受影响,Affected
+CVE-2026-34743,rhcos,Fix deferred,Fix deferred
+CVE-2026-34933,rhcos,Fix deferred,Fix deferred
+CVE-2026-34978,rhcos,Out of support scope,Fix deferred
+CVE-2026-34979,rhcos,Out of support scope,Fix deferred
+CVE-2026-34980,rhcos,Out of support scope,Fix deferred
+CVE-2026-34982,rhcos,Affected,maybe fixed
+CVE-2026-34990,rhcos,Out of support scope,Fix deferred
+CVE-2026-35177,rhcos,Affected,Affected
+CVE-2026-5704,tar,Fix deferred,Fix deferred
+CVE-2026-5745,rhcos,Fix deferred,Fix deferred
+CVE-2025-47268,rhcos,Fix deferred,Fix deferred
+CVE-2026-1519,rhcos,--,maybe fixed
+CVE-2026-23379,kernel,不受影响,Fix deferred
+
+

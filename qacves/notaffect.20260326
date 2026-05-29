@@ -1,0 +1,66 @@
+CVE-2025-71268
+CVE-2025-71269
+CVE-2025-7424
+CVE-2026-23242
+CVE-2026-23243
+CVE-2026-23253
+CVE-2026-23289
+CVE-2026-23303
+CVE-2026-23317
+CVE-2026-23318
+CVE-2026-23335
+CVE-2026-23336
+CVE-2026-23367
+CVE-2026-23395
+CVE-2026-4111
+CVE-2026-33412
+CVE-2026-4519: need check manually because of python package
+CVE-2025-49844,redis6,不受影响,"代码受影响,不会触发",NA
+CVE-2026-26740,java-21-openjdk,Affected,Affected
+CVE-2026-1965,rhtpa/rhtpa-trustification-service-rhel9,Fix deferred,Fix deferred
+CVE-2026-23241,kernel,Fix deferred,Fix deferred
+CVE-2026-23248,kernel,Fix deferred,Fix deferred
+CVE-2026-23255,kernel,Fix deferred,Fix deferred
+CVE-2026-23256,kernel,Fix deferred,Fix deferred
+CVE-2026-23257,kernel,Fix deferred,Fix deferred
+CVE-2026-23258,kernel,Fix deferred,Fix deferred
+CVE-2026-23261,kernel,Fix deferred,Fix deferred
+CVE-2026-23262,kernel,不受影响,Fix deferred
+CVE-2026-23270,kernel,不受影响,Affected
+CVE-2026-23271,kernel,Fix deferred,Fix deferred
+CVE-2026-23272,kernel,不受影响,Fix deferred
+CVE-2026-23276,kernel,Fix deferred,Fix deferred
+CVE-2026-23277,kernel,Fix deferred,Fix deferred
+CVE-2026-23286,kernel,Fix deferred,Fix deferred
+CVE-2026-23290,kernel,Fix deferred,Fix deferred
+CVE-2026-23292,kernel,Fix deferred,Fix deferred
+CVE-2026-23296,kernel,不受影响,Fix deferred
+CVE-2026-23298,kernel,不受影响,Fix deferred
+CVE-2026-23302,kernel,不受影响,Fix deferred
+CVE-2026-23304,kernel,不受影响,Fix deferred
+CVE-2026-23307,kernel,Fix deferred,Fix deferred
+CVE-2026-23312,kernel,Fix deferred,Fix deferred
+CVE-2026-23333,kernel,不受影响,Fix deferred
+CVE-2026-23340,kernel,不受影响,Fix deferred
+CVE-2026-23351,kernel,不受影响,Fix deferred
+CVE-2026-23352,kernel,Fix deferred,Fix deferred
+CVE-2026-23365,kernel,Fix deferred,Fix deferred
+CVE-2026-23368,kernel,不受影响,Fix deferred
+CVE-2026-23374,kernel,Fix deferred,Fix deferred
+CVE-2026-23381,kernel,不受影响,Fix deferred
+CVE-2026-23382,kernel,Fix deferred,Fix deferred
+CVE-2026-23386,kernel,不受影响,Fix deferred
+CVE-2026-23388,kernel,Fix deferred,Fix deferred
+CVE-2026-23391,kernel,Fix deferred,Fix deferred
+CVE-2026-23392,kernel,不受影响,Affected
+CVE-2026-31788,kernel,Affected,Affected
+CVE-2026-4426,rhcos,Fix deferred,Fix deferred
+CVE-2026-4437,rhcos,Fix deferred,Fix deferred
+CVE-2026-4438,rhcos,Fix deferred,Fix deferred
+CVE-2026-4647,rhcos,Fix deferred,Fix deferred
+CVE-2026-4775,libtiff,Affected,Affected
+CVE-2026-33056: need check manually because of python package
+
+
+
+

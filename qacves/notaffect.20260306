@@ -1,0 +1,24 @@
+CVE-2026-28419
+CVE-2026-3441
+CVE-2026-3442
+CVE-2019-25451 not affected
+CVE-2019-25454 not affected
+CVE-2022-40295 not affected
+CVE-2026-24765: need check manually because of data
+CVE-2023-52355,libtiff,Out of support scope,Affected
+CVE-2023-52356,compat-libtiff3,Out of support scope,maybe fixed
+CVE-2023-7216,cpio,Fix deferred,Fix deferred
+CVE-2025-61143,libtiff,Out of support scope,Fix deferred
+CVE-2025-61144,libtiff,Out of support scope,Fix deferred
+CVE-2025-61145,libtiff,Out of support scope,Fix deferred
+CVE-2026-2708,libsoup,Fix deferred,Fix deferred
+CVE-2026-27171,rhcos,Fix deferred,Fix deferred
+CVE-2026-27903,com.github.streamshub-console,--,Fix deferred
+CVE-2026-28417,vim,--,maybe fixed
+CVE-2026-28418,rhcos,Fix deferred,Fix deferred
+CVE-2026-28420,rhcos,Fix deferred,Fix deferred
+CVE-2026-28421,vim,--,maybe fixed
+CVE-2026-28422,rhcos,Fix deferred,Fix deferred
+CVE-2025-13837
+CVE-2017-5225,libtiff,Will not fix,--
+

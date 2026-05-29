@@ -1,0 +1,28 @@
+CVE-2025-71160
+CVE-2026-22978
+CVE-2026-22993
+CVE-2026-22998
+CVE-2026-0672, need check manually because of python package
+CVE-2026-0865, need check manually because of python package
+CVE-2025-14017,rhtpa/rhtpa-trustification-service-rhel9,Fix deferred,Fix deferred
+CVE-2025-71154,kernel,Affected,Affected
+CVE-2025-71161,kernel,Affected,Affected
+CVE-2026-1484,mingw-glib2,Fix deferred,Fix deferred
+CVE-2026-1485,mingw-glib2,Fix deferred,Fix deferred
+CVE-2026-1489,mingw-glib2,Fix deferred,Fix deferred
+CVE-2026-22979,kernel,不受影响,Affected
+CVE-2026-22980,kernel,Affected,Affected
+CVE-2026-22981,kernel,不受影响,Affected
+CVE-2026-22984,kernel,不受影响,Affected
+CVE-2026-22985,kernel,不受影响,Affected
+CVE-2026-22990,kernel,Affected,Affected
+CVE-2026-22991,kernel,Affected,Affected
+CVE-2026-22992,kernel,不受影响,Affected
+CVE-2026-22996,kernel,不受影响,Affected
+CVE-2026-22999,kernel,Affected,Affected
+CVE-2026-23000,kernel,不受影响,Affected
+CVE-2026-23001,kernel,不受影响,maybe fixed
+CVE-2026-23005,kernel,不受影响,Affected
+CVE-2026-23011,kernel,Affected,Affected
+CVE-2025-11468, need check manually because of python package
+CVE-2025-15282, need check manually because of python package

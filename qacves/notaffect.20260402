@@ -1,0 +1,27 @@
+CVE-2026-23315
+CVE-2026-33416
+CVE-2026-33636
+CVE-2026-33938
+CVE-2026-33939
+CVE-2026-33940
+CVE-2026-33941
+CVE-2026-4046
+CVE-2026-4176
+CVE-2026-4926
+CVE-2026-23379,kernel,不受影响,Fix deferred
+CVE-2026-23398,kernel,不受影响
+CVE-2026-23399,kernel,不受影响,Fix deferred
+CVE-2026-33532,yaml,--,Fix deferred
+CVE-2026-33750,brace-expansion,--,Fix deferred
+CVE-2026-33916,handlebars,Fix deferred,Fix deferred
+CVE-2026-33937,handlebars,不受影响,Affected
+CVE-2026-4867,ansible-automation-platform/automation-portal,--,Fix deferred
+CVE-2026-4897,,Fix deferred,Fix deferred
+CVE-2026-4923,ansible-automation-platform/automation-portal,--,Fix deferred
+CVE-2026-5121,libarchive,--,maybe fixed
+CVE-2026-5201,librsvg2,--,maybe fixed
+CVE-2026-25645
+CVE-2026-3479
+CVE-2026-4800
+
+

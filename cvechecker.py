@@ -3,8 +3,8 @@
 import os
 import json
 
-filename = "/Users/wangli/cvechecker/result.csv"
-notaffect = "/Users/wangli/cvechecker/notaffect.md"
+filename = "/Users/wangli/develop/array/cvechecker/result.csv"
+notaffect = "/Users/wangli/develop/array/cvechecker/notaffect.md"
 blacklist = ["wifi", "drm", "ALSA", "Bluetooth", "smb", "IB", "RDMA", "cifs", "ASoC", "media"]
 def parse_data(data):
     maybe_affect = False
@@ -70,13 +70,13 @@ def parse_data(data):
     else:
         print("%s: need check manually because of data" % data['name'])
 
-with open("/Users/wangli/cvechecker/updated", "r") as fp:
+with open("/Users/wangli/develop/array/cvechecker/updated", "r") as fp:
     for line in fp.readlines():
         if line == '\n':
             continue
         line = line.strip().upper()
         lar = line.split('-')
-        jpath = "/Users/wangli/develop/vuln-list-redhat.git/api/" + str(lar[1]) + "/" + line + ".json"
+        jpath = "/Volumes/m2disk/develop/vuln-list-redhat/api/" + str(lar[1]) + "/" + line + ".json"
         if (not os.access(jpath, os.F_OK)):
             print("%s not affected" % line)
             continue

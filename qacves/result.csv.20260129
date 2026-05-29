@@ -1,0 +1,5 @@
+CVE,软件包名,网安产品,iSecOS, kylin kernel
+CVE-2026-23004,kernel,不受影响,Affected,Affected
+CVE-2025-15366,python,不受影响,Affected,NA
+CVE-2025-15367,python,不受影响,Affected,NA
+

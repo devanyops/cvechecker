@@ -1,0 +1,48 @@
+CVE-2025-28162
+CVE-2025-5987
+CVE-2025-71194
+CVE-2026-23076
+CVE-2026-23078
+CVE-2026-23089
+CVE-2026-25646
+CVE-2025-5318
+CVE-2025-14550, need check manually because of python package
+CVE-2026-1207, need check manually because of python package
+CVE-2026-1285, need check manually because of python package
+CVE-2026-1287, need check manually because of python package
+CVE-2026-1312, need check manually because of python package
+CVE-2026-25727, need check manually because of python package
+CVE-2020-37127,rhoso-operators/infra-rhel9-operator,Fix deferred,Fix deferred
+CVE-2026-25749,vim,--,maybe fixed
+CVE-2025-13473,satellite/iop-advisor-backend-rhel9,--,--
+CVE-2025-15281,rhcos,Fix deferred,maybe fixed
+CVE-2025-28164,rhcos,Fix deferred,Fix deferred
+CVE-2025-68157,com.github.streamshub-console,--,Fix deferred
+CVE-2025-68458,com.github.streamshub-console,--,Fix deferred
+CVE-2026-0964,rhcos,不受影响,Fix deferred
+CVE-2026-0965,rhcos,不受影响,Fix deferred
+CVE-2026-0966,rhcos,不受影响,Fix deferred
+CVE-2026-0967,rhcos,不受影响,Fix deferred
+CVE-2026-0968,rhcos,不受影响,Fix deferred
+CVE-2026-23047,kernel,Affected,Affected
+CVE-2026-23050,kernel,不受影响,Affected
+CVE-2026-23054,kernel,Affected,Affected
+CVE-2026-23058,kernel,Affected,Affected
+CVE-2026-23059,kernel,不受影响,Affected
+CVE-2026-23060,kernel,不受影响,Affected
+CVE-2026-23061,kernel,不受影响,Affected
+CVE-2026-23069,kernel,Fix deferred,Fix deferred
+CVE-2026-23071,kernel,不受影响,Affected
+CVE-2026-23074,kernel,--,maybe fixed
+CVE-2026-23084,kernel,Affected,Affected
+CVE-2026-23085,kernel,不受影响,Affected
+CVE-2026-23086,kernel,Affected,Affected
+CVE-2026-23097,kernel,不受影响,maybe fixed
+CVE-2026-23099,kernel,Affected,Affected
+CVE-2026-23101,kernel,Affected,Affected
+CVE-2026-23103,kernel,不受影响,Affected
+CVE-2026-23105,kernel,Affected,Affected
+CVE-2026-23108,kernel,Affected,Affected
+CVE-2026-23110,kernel,不受影响,Affected
+
+
